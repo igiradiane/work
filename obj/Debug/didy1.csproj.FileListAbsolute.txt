@@ -1,0 +1,7 @@
+C:\Users\Kib D\source\repos\didy1\didy1\bin\Debug\didy1.exe.config
+C:\Users\Kib D\source\repos\didy1\didy1\bin\Debug\didy1.exe
+C:\Users\Kib D\source\repos\didy1\didy1\bin\Debug\didy1.pdb
+C:\Users\Kib D\source\repos\didy1\didy1\obj\Debug\didy1.csprojAssemblyReference.cache
+C:\Users\Kib D\source\repos\didy1\didy1\obj\Debug\didy1.csproj.CoreCompileInputs.cache
+C:\Users\Kib D\source\repos\didy1\didy1\obj\Debug\didy1.exe
+C:\Users\Kib D\source\repos\didy1\didy1\obj\Debug\didy1.pdb
